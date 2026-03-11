@@ -10,7 +10,7 @@ Extrair de forma automatizada os 4 posts mais recentes de um perfil específico,
 - Salvamento em formato `.csv`
 
 ## Tecnologias Utilizadas
-- [Python 3.x](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Selenium](https://www.selenium.dev/) - Automação de navegador
 - [Pandas](https://pandas.pydata.org/) - Estruturação de dados
 - [WebDriver Manager](https://pypi.org/project/webdriver-manager/) - Gestão automática de drivers
